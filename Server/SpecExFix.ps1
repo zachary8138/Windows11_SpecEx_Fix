@@ -53,7 +53,7 @@
     Log: C:\ProgramData\SpecEx\SpeculativeExecutionFix_Server.log
 
 .NOTES
-    Author: VSave
+    Author: zachary8138
     Requires: Windows Server (or Azure Stack HCI / Azure Local), PowerShell 5.1+, elevated context
     References:
       - https://www.tenable.com/plugins/nessus/132101
